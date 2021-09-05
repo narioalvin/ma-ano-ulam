@@ -4,7 +4,7 @@ A Web Application that will help me and maybe you to answer my mother's everyday
 
 ## Live
 
-[Click Me](https://narioalvin.github.io/weather-vibe/)
+[Click Me](https://narioalvin.github.io/nak-ano-ulam/)
 
 ## Project setup
 
