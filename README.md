@@ -1,6 +1,6 @@
 # ma-ano-ulam
 
-A Web Application that will help you to solve the typical Filipino family problem, the problem of what to eat!
+A Web Application that will help me and maybe you to answer my mother's everyday question: Nak, anong ulam? (What food to eat later?)
 
 ## Live
 
